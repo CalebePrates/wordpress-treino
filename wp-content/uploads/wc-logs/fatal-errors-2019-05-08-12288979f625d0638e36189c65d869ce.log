@@ -1,0 +1,4 @@
+2019-05-08T16:30:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\wp-content\themes\scope\inc\menu-walker.php, na linha 21
+
+2019-05-08T17:17:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php, na linha 463
+
